@@ -1,2 +1,2 @@
 # Guessing_Game
-Guessing game created by C language
+Guessing game created by C language.
